@@ -40,6 +40,10 @@
 
 - `---` [MMSP] **Multi-scale Self-attention-based Few-shot Object Detection for Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9949538)
 
+- `NPDEL` [IGARSS] **Non-Local Proposal Dynamic Enhancement Learning for Few-Shot Object Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9883058)
+
+- `---` [Remote Sensing] **Few-Shot Aircraft Detection in Satellite Videos Based on Feature Scale Selection Pyramid and Proposal Contrastive Learning** [[Paper]](https://www.mdpi.com/2072-4292/14/18/4581)
+
 ### 2023
 - `TINet` [TGRS] **Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10318106)
 
@@ -65,6 +69,8 @@
 
 
 - `MOCA-Net` [Remote Sensing] **Multi-Oriented Enhancement Branch and Context-Aware Module for Few-Shot Oriented Object Detection in Remote Sensing Images** [[Paper]](https://www.mdpi.com/2072-4292/15/14/3544)
+
+- `---` [AIAC] **Information Extraction Enhancement for Few-Shot Object Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10491605)
 
 ### 2024
 - `ST-FSOD` [TGRS] **Few-shot object detection in remote sensing: Lifting the curse of incompletely annotated novel objects** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10384561) [[Code]](https://github.com/zhu-xlab/ST-FSOD)
@@ -99,3 +105,4 @@
 
 - `---` [IGARSS] **Advancing Controllable Diffusion Model for Few-Shot Object Detection in Optical Remote Sensing Imagery** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10642625)
 
+- `---` [TGRS] **Class Hierarchy-Guided Generalized Few-Shot Ship Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10606235)
