@@ -1,0 +1,2 @@
+
+- `G-FSDet` [ISPRS2023] **Generalized few-shot object detection in remote sensing images** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271622003197) [[Code]](https://github.com/RSer-XDU/G-FSDet)
