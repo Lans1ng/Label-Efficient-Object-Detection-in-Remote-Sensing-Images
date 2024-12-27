@@ -1,5 +1,7 @@
 # label-efficient-object-detection-in-RSIs
 
+A curated list of awesome label-efficient (semi-supervised/ weakly-supervised/ few-shot/ domain adaptive) object detection resources.
+
 ## Contents
 - [Few-shot Object Detection](./FSOD4RSIs.md)
 - [Weakly-supervised Object Detection](./WSOD4RSIs.md)
