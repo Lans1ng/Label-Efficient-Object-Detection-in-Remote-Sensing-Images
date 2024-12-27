@@ -15,6 +15,9 @@
 
 - `---` [ICMLA] **Experience feedback using Representation Learning for Few-Shot Object Detection on Aerial Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9680249)
 
+- `SCoDANet` [TGRS] **Solo-to-Collaborative Dual-Attention Network for One-Shot Object Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9471793)
+
+
 ### 2022
 - `CIR-FSD` [Remote Sensing] **Context information refinement for few-shot object detection in remote sensing images** [[Paper]](https://www.mdpi.com/2072-4292/14/14/3255)
 
@@ -44,6 +47,10 @@
 
 - `---` [Remote Sensing] **Few-Shot Aircraft Detection in Satellite Videos Based on Feature Scale Selection Pyramid and Proposal Contrastive Learning** [[Paper]](https://www.mdpi.com/2072-4292/14/18/4581)
 
+- `---` [IGARSS] **Few-Shot SAR Ship Image Detection Using Two-Stage Cross-Domain Transfer Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9883172)
+
+- `---` [CISP-BMEI] **Dual-Enhanced-CNN for Few-Shot Object Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9979831)
+
 ### 2023
 - `TINet` [TGRS] **Transformation-Invariant Network for Few-Shot Object Detection in Remote-Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10318106)
 
@@ -71,6 +78,16 @@
 - `MOCA-Net` [Remote Sensing] **Multi-Oriented Enhancement Branch and Context-Aware Module for Few-Shot Oriented Object Detection in Remote Sensing Images** [[Paper]](https://www.mdpi.com/2072-4292/15/14/3544)
 
 - `---` [AIAC] **Information Extraction Enhancement for Few-Shot Object Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10491605)
+
+
+- `PCLDet` [TGRS] **PCLDet: Prototypical Contrastive Learning for Fine-Grained Object Detection in Remote Sensing Images** [[Paper]](
+https://ieeexplore.ieee.org/abstract/document/10164230)
+
+- `---` [AIMLR] **Pixel Attention Feature Pyramid Network for Few-Shot Object Detection in Remote Sensing Images** [[Paper]](
+https://dl.acm.org/doi/abs/10.1145/3625343.3625362)
+
+- `---` [IGARSS] **Features Matter: Cross-Domain Mutual Centralized Learning for Few Shot Remote Sensing Object Detection** [[Paper]](
+https://ieeexplore.ieee.org/abstract/document/10282953)
 
 ### 2024
 - `ST-FSOD` [TGRS] **Few-shot object detection in remote sensing: Lifting the curse of incompletely annotated novel objects** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10384561) [[Code]](https://github.com/zhu-xlab/ST-FSOD)
@@ -106,3 +123,13 @@
 - `---` [IGARSS] **Advancing Controllable Diffusion Model for Few-Shot Object Detection in Optical Remote Sensing Imagery** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10642625)
 
 - `---` [TGRS] **Class Hierarchy-Guided Generalized Few-Shot Ship Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10606235)
+
+- `---` [Remote Sensing] **Multi-Modal Prototypes for Few-Shot Object Detection in Remote Sensing Images** [[Paper]](https://www.mdpi.com/2072-4292/16/24/4693)
+
+- `---` [Front. Neurosci.] **In defense of local descriptor-based few-shot object detection** [[Paper]](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1349204/full)
+
+- `---` [IET Image Processing] **Few-shot object detection based on global context and implicit knowledge decoupled head** [[Paper]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.13040)
+
+- `FSDD` [IGARSS] **Improving Few-Shot and Cross-Domain Object Detection on Aerial Images with a Diffusion-Based Detector** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10642125)
+
+- `---` [IGARSS] **How to Efficiently Adapt Foundation Models to Remote Sensing for Object Detection?** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10642561)
