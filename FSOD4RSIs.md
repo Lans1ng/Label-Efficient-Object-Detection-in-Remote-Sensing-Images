@@ -89,7 +89,7 @@
 
 - `RP-FSOD` [TCSVT] **Retentive Compensation and Personality Filtering for Few-Shot Remote Sensing Object Detection** [[Paper]](https://www.mdpi.com/1424-8220/24/12/3882) [[Code]](https://github.com/yomik-js/RP-FSOD)
 
-- `RP-FSOD` [ArXiv] **Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images** [[Paper]](https://arxiv.org/abs/2404.18426)
+- `---` [ArXiv] **Efficient Meta-Learning Enabled Lightweight Multiscale Few-Shot Object Detection in Remote Sensing Images** [[Paper]](https://arxiv.org/abs/2404.18426)
 
 - `BOSS` [TGRS] **Balanced Orthogonal Subspace Separation Detector for Few-Shot Object Detection in Aerial Imagery** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10586858)
 
