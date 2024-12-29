@@ -1,6 +1,7 @@
 ### 2021
 - `SSOD-RS` [IGARSS] **Semi-Supervised Object Detection Framework with Object First Mixup for Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9554202)
 
+
 ### 2023
 
 - `SOOD` [CVPR] **SOOD: Towards Semi-Supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2304.04515) [[Code]](https://github.com/HamPerdredes/SOOD)
@@ -10,6 +11,8 @@
 - `RS-PCL` [ICDIP] **Semi-supervised Object Detection for Remote Sensing Images via Pseudo Labeling and Consistency Learning: RS-PCL for SSOD in Remote Sensing Images** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3604078.3604114)
 
 - `P2ONet` [ICIP] **Weakly Semi-Supervised Oriented Object Detection with Points** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10222508)
+
+- `KCR` [CVPR] **Knowledge Combination to Learn Rotated Detection Without Rotated Annotation** [[Paper]](https://zhuanlan.zhihu.com/p/620377685) [[Code]](https://github.com/alanzty/KCR-Official)
 
 ### 2024
 - `OSSOD` [JAG] **Semi-supervised object detection with uncurated unlabeled data for remote sensing images** [[Paper]](https://www.sciencedirect.com/science/article/pii/S1569843224001687)  [[Code]](https://github.com/Lans1ng/OSSOD)
