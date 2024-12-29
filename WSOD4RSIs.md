@@ -2,7 +2,7 @@
 - `---` [ICMEW] **Oriented Object Detection For Remote Sensing Images Based On Weakly Supervised Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9455957?casa_token=x3jK_8szB8sAAAAA:0UV4id4FbO-zSz7X_5Px7CAiZrgHlcdO5gEdspfubB2hZr4CMKWShzdjprnTDEufOL3AhQ3FnZn_) 
 
 ### 2022
-- `RINet` [CVPR] **Weakly supervised rotation-invariant aerial object detection network** [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Weakly_Supervised_Rotation-Invariant_Aerial_Object_Detection_Network_CVPR_2022_paper.html) [[Code]](https://github. com/XiaoxFeng/RINet)
+- `RINet` [CVPR] **Weakly supervised rotation-invariant aerial object detection network** [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Weakly_Supervised_Rotation-Invariant_Aerial_Object_Detection_Network_CVPR_2022_paper.html) [[Code]](https://github.com/XiaoxFeng/RINet)
 
 ### 2023
 - `H2RBox` [ICLR] **H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2210.06742) [[Code]](https://github.com/yangxue0827/h2rbox-mmrotate)
