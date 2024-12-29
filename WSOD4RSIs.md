@@ -15,4 +15,3 @@
 - `PointOBB-V2` [ArXiv] **PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2410.08210) [[Code]](https://github.com/taugeren/PointOBB-v2)
 - `AFWS` [TGRS] **AFWS: Angle-Free Weakly Supervised Rotating Object Detection for Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/document/10731721)
 - `Point Teacher` [ArXiv] **Tiny Object Detection with Single Point Supervision** [[Paper]](https://arxiv.org/pdf/2412.05837)
-- 
