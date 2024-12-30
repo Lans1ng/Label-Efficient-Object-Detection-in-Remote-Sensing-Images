@@ -1,3 +1,7 @@
+# Semi-supervised Object Detection
+
+**Semi-supervised object detection aims to combine a small amount of labeled data with a large amount of unlabeled data, improving object detection performance through pseudo-labeling or consistency regularization.**
+
 ### 2021
 - `SSOD-RS` [IGARSS] **Semi-Supervised Object Detection Framework with Object First Mixup for Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9554202)
 
