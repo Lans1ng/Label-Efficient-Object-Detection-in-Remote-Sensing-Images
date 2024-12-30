@@ -1,3 +1,7 @@
+# Weakly-supervised Object Detection
+
+**Weakly-supervised object detection aims to perform object detection using weak supervision information, such as image-level labels, points, or horizontal boxes.**
+
 ### 2021
 - `---` [ICMEW] **Oriented Object Detection For Remote Sensing Images Based On Weakly Supervised Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9455957?casa_token=x3jK_8szB8sAAAAA:0UV4id4FbO-zSz7X_5Px7CAiZrgHlcdO5gEdspfubB2hZr4CMKWShzdjprnTDEufOL3AhQ3FnZn_) 
 
