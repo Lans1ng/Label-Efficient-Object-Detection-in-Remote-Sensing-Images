@@ -1,3 +1,7 @@
+# Few-Shot Object Detection
+
+**Few-shot Object Detection aims to train an object detecter with a small number of labeled samples, commonly using meta-learning, transfer learning, and data augmentation to improve generalization ability.**
+
 ### 2021
 - `FSODM` [TGRS] **Few-Shot Object Detection on Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9362267) [[Code]](https://github.com/lixiang-ucas/FSODM)
 
