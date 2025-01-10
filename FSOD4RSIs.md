@@ -137,3 +137,6 @@ https://ieeexplore.ieee.org/abstract/document/10282953)
 - `FSDD` [IGARSS] **Improving Few-Shot and Cross-Domain Object Detection on Aerial Images with a Diffusion-Based Detector** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10642125)
 
 - `---` [IGARSS] **How to Efficiently Adapt Foundation Models to Remote Sensing for Object Detection?** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10642561)
+
+### 2025
+- `EC-FSOD` [IEEE Access] **Few-Shot Object Detection in Remote Sensing: Mitigating Label Inconsistencies and Navigating Category Variations** [[Paper]](https://ieeexplore.ieee.org/document/10835074) [[Code]](https://github.com/stcnjtech/EC-FSOD)
