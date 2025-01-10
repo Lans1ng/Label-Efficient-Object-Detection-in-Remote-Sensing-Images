@@ -42,6 +42,9 @@
 
 - `S3OD` [ArXiv] **Rethinking Scale Imbalance in Semi-supervised Object Detection for Aerial Images** [[Paper]](https://arxiv.org/abs/2310.14718)
 
+- `Dual Teacher` [TGRS] **Dual Teacher: Improving the Reliability of Pseudo Labels for Semi-Supervised Oriented Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/10804848)
+
+
 
 
 
