@@ -141,4 +141,4 @@ https://ieeexplore.ieee.org/abstract/document/10282953)
 ### 2025
 - `EC-FSOD` [IEEE Access] **Few-Shot Object Detection in Remote Sensing: Mitigating Label Inconsistencies and Navigating Category Variations** [[Paper]](https://ieeexplore.ieee.org/document/10835074) [[Code]](https://github.com/stcnjtech/EC-FSOD)
 
-- `RST R-CNN` [CVAA] ** RST R-CNN: a triplet matching few-shot remote sensing object detection framework** [[Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13486/134862B/RST-R-CNN--a-triplet-matching-few-shot-remote/10.1117/12.3055815.short)
+- `RST R-CNN` [CVAA] **RST R-CNN: a triplet matching few-shot remote sensing object detection framework** [[Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13486/134862B/RST-R-CNN--a-triplet-matching-few-shot-remote/10.1117/12.3055815.short)
