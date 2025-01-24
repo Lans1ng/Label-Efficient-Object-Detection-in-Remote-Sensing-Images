@@ -24,6 +24,6 @@
 - `AFWS` [TGRS] **AFWS: Angle-Free Weakly Supervised Rotating Object Detection for Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/document/10731721)
 - `Point Teacher` [ArXiv] **Tiny Object Detection with Single Point Supervision** [[Paper]](https://arxiv.org/pdf/2412.05837)
 
-###2025
+### 2025
 - `PointSAM` [TGRS] **Tiny Object Detection with Single Point Supervision** [[Paper]](https://ieeexplore.ieee.org/document/10839471)
 - `PointOBB-v3` [ArXiv] **PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2501.13898)
