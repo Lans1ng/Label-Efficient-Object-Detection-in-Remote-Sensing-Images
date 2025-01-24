@@ -26,5 +26,5 @@
 - `Point Teacher` [ArXiv] **Tiny Object Detection with Single Point Supervision** [[Paper]](https://arxiv.org/pdf/2412.05837)
 
 ### 2025
-- `PointSAM` [TGRS] **Tiny Object Detection with Single Point Supervision** [[Paper]](https://ieeexplore.ieee.org/document/10839471) [[Code]](https://github.com/Lans1ng/PointSAM)
+- `PointSAM` [TGRS] **PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/document/10839471) [[Code]](https://github.com/Lans1ng/PointSAM)
 - `PointOBB-v3` [ArXiv] **PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2501.13898) [[Code]](https://github.com/ZpyWHU/PointOBB-v3)
