@@ -15,6 +15,7 @@
 - `PointOBB` [CVPR] **PointOBB: Learning Oriented Object Detection via Single Point Supervision** [[Paper]](https://arxiv.org/abs/2311.14757) [[Code]](https://github.com/Luo-Z13/pointobb)
 - `Point2RBox` [CVPR] **Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision** [[Paper]](https://arxiv.org/abs/2311.14758) [[Code]](https://github.com/yuyi1005/point2rbox-mmrotate/tree/dev-1.x/configs/point2rbox)
 - `Point-to-RBox` [BMVC] **Point-to-RBox Network for Oriented Object Detection via Single Point Supervision** [[Paper]](https://papers.bmvc2023.org/0323.pdf)
+  
 ### 2024
 - `---` [TGRS] **A Weak Supervision Learning Paradigm for Oriented Ship Detection in SAR Image** [[Paper]](https://ieeexplore.ieee.org/document/10463064)
 - `EIE-Det` [TETCI] **Explicit and Implicit Box Equivariance Learning for Weakly-Supervised Rotated Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/10535195)
@@ -25,5 +26,5 @@
 - `Point Teacher` [ArXiv] **Tiny Object Detection with Single Point Supervision** [[Paper]](https://arxiv.org/pdf/2412.05837)
 
 ### 2025
-- `PointSAM` [TGRS] **Tiny Object Detection with Single Point Supervision** [[Paper]](https://ieeexplore.ieee.org/document/10839471)
-- `PointOBB-v3` [ArXiv] **PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2501.13898)
+- `PointSAM` [TGRS] **Tiny Object Detection with Single Point Supervision** [[Paper]](https://ieeexplore.ieee.org/document/10839471)[[Code]](https://github.com/taugeren/PointOBB-v2)[[Code]](https://github.com/Lans1ng/PointSAM)
+- `PointOBB-v3` [ArXiv] **PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2501.13898) [[Code]](https://github.com/ZpyWHU/PointOBB-v3)
