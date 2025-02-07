@@ -144,4 +144,3 @@ https://ieeexplore.ieee.org/abstract/document/10282953)
 - `RST R-CNN` [CVAA] **RST R-CNN: a triplet matching few-shot remote sensing object detection framework** [[Paper]](https://doi.org/10.1117/12.3055815)
   
 - `---` [Remote Sensing] **Advancing Fine-Grained Few-Shot Object Detection on Remote Sensing Images with Decoupled Self-Distillation and Progressive Prototype Calibration** [[Paper]](https://www.mdpi.com/2072-4292/17/3/495)
-
