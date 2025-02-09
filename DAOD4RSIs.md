@@ -3,6 +3,8 @@
 ### Survey
 - [Remote Sensing] **The Eyes of the Gods: A Survey of Unsupervised Domain Adaptation Methods Based on Remote Sensing Data** [[Paper]](https://www.mdpi.com/2072-4292/14/17/4380)
 
+### 2020
+- `---` [Remote Sensing] **A Method for Vehicle Detection in High-Resolution Satellite Images that Uses a Region-Based Object Detector and Unsupervised Domain Adaptation** [[Paper]](https://www.mdpi.com/2072-4292/12/3/575)
 
 ### 2021
 - `---` [Remote Sensing] **Domain Adaptive Ship Detection in Optical Remote Sensing Images** [[Paper]](https://www.mdpi.com/2072-4292/13/16/3168)
