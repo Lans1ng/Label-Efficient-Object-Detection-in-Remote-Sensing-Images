@@ -17,6 +17,7 @@
 ### 2023
 - `---` [ICUS] **Cross-Domain Remote Sensing Image Object Detection Based on Multi-Scale Domain Adaptive Teacher Network** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10318282)
 - `DualDA-Net` [TGRS] **DualDA-Net: Dual-Head Rectification for Cross-Domain Object Detection of Remote Sensing** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10149488)
+- `---` [JSTARS] **Unsupervised Domain Adaptation With Debiased Contrastive Learning and Support-Set Guided Pseudolabeling for Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/document/10380690)
 
 ### 2024
 - `CR-Mixing` [TGRS] **Confidence-Driven Region Mixing for Optical Remote Sensing Domain Adaptation Object Detection** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10568180)
