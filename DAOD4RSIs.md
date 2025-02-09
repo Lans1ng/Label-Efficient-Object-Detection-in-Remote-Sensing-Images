@@ -28,6 +28,7 @@
 - `---` [TGRS] **Domain Adaptation With Contrastive Learning for Object Detection in Satellite Imagery** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10505321)
 - `---` [ISPRS] **Hierarchical alignment network for domain adaptive object detection in aerial images** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271624000054) [[Code]](https://github.com/MaYou1997/HANet)
 - `---` [Geo-spatial Information Science] **Multi-level domain perturbation for source-free object detection in remote sensing images** [[Paper]](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2378920)
+- `SFOD-RS` [IGARSS] **CLIP-guided Source-free Object Detection in Aerial Images** [[Paper]](https://arxiv.org/abs/2401.05168) [[Code]](https://github.com/Lans1ng/SFOD-RS)
 
 
 
