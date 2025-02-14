@@ -140,7 +140,10 @@ https://ieeexplore.ieee.org/abstract/document/10282953)
 
 ### 2025
 - `EC-FSOD` [IEEE Access] **Few-Shot Object Detection in Remote Sensing: Mitigating Label Inconsistencies and Navigating Category Variations** [[Paper]](https://ieeexplore.ieee.org/document/10835074) [[Code]](https://github.com/stcnjtech/EC-FSOD)
+  
 - `CGK-FSOD` [TGRS] **Controllable Generative Knowledge Driven Few-Shot Object Detection from Optical Remote Sensing Imagery** [[Paper]](https://ieeexplore.ieee.org/document/10884786/authors#authors)
+
+- `GE-FSOD` [TCSVT] **Generalization-Enhanced Few-Shot Object Detection in Remote Sensing** [[Paper]](https://ieeexplore.ieee.org/document/10836905)
 
 - `RST R-CNN` [CVAA] **RST R-CNN: a triplet matching few-shot remote sensing object detection framework** [[Paper]](https://doi.org/10.1117/12.3055815)
   
