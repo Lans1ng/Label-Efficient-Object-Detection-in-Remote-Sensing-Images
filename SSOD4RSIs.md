@@ -40,9 +40,10 @@
 
 - `---` [CVPR] **Relational Matching for Weakly Semi-Supervised Oriented Object Detection** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Relational_Matching_for_Weakly_Semi-Supervised_Oriented_Object_Detection_CVPR_2024_paper.html)
 
-- `S3OD` [ArXiv] **Rethinking Scale Imbalance in Semi-supervised Object Detection for Aerial Images** [[Paper]](https://arxiv.org/abs/2310.14718)
-
 - `Dual Teacher` [TGRS] **Dual Teacher: Improving the Reliability of Pseudo Labels for Semi-Supervised Oriented Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/10804848)
+
+### 2025
+- `S3OD` [ISPRS] **S3OD: Size-unbiased semi-supervised object detection in aerial images** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271625000425)  [[Code]](https://github.com/ZhangRuixiang-WHU/S3OD/tree/master)
 
 
 
