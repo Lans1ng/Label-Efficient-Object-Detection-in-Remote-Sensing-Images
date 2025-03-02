@@ -150,3 +150,6 @@ https://ieeexplore.ieee.org/abstract/document/10282953)
 - `---` [Remote Sensing] **Advancing Fine-Grained Few-Shot Object Detection on Remote Sensing Images with Decoupled Self-Distillation and Progressive Prototype Calibration** [[Paper]](https://www.mdpi.com/2072-4292/17/3/495)
 
 - `CAMCFormer` [TGRS] **CAMCFormer: Cross-Attention and Multi-Correlation Aided Transformer for Few-Shot Object Detection in Optical Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10892299)
+
+- `GIDR` [TGRS] **Global-integrated and Drift-rectified Imprinting for Few-Shot Remote Sensing Object Detection** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10904894) [[Code]](https://github.com/Ybowei/GIDR)
+
