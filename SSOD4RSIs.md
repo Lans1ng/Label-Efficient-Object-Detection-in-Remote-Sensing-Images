@@ -42,6 +42,8 @@
 
 - `Dual Teacher` [TGRS] **Dual Teacher: Improving the Reliability of Pseudo Labels for Semi-Supervised Oriented Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/10804848)
 
+- `OGR-SM` [JSTARS] **Point-Based Weakly Semisupervised Oriented Vehicle Detection in Optical Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10646487/metrics#metrics)
+
 ### 2025
 - `S3OD` [ISPRS] **S3OD: Size-unbiased semi-supervised object detection in aerial images** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271625000425)  [[Code]](https://github.com/ZhangRuixiang-WHU/S3OD/tree/master)
   
