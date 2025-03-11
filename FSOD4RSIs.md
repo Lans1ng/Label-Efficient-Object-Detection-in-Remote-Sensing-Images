@@ -155,3 +155,5 @@ https://ieeexplore.ieee.org/abstract/document/10282953)
   
 - `---` [EAAI] **Enhanced few-shot object detection for remote sensing images based on target characteristics** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S095219762500315X)
 
+- `SFIDM` [Remote Sensing] **SFIDM: Few-Shot Object Detection in Remote Sensing Images with Spatial-Frequency Interaction and Distribution Matching** [[Paper]](https://www.mdpi.com/2072-4292/17/6/972)
+
