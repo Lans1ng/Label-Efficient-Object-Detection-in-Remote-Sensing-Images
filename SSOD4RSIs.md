@@ -18,6 +18,8 @@
 
 - `KCR` [CVPR] **Knowledge Combination to Learn Rotated Detection Without Rotated Annotation** [[Paper]](https://zhuanlan.zhihu.com/p/620377685) [[Code]](https://github.com/alanzty/KCR-Official)
 
+- `---` [Remote Sensing] **Semi-Supervised Person Detection in Aerial Images with Instance Segmentation and Maximum Mean Discrepancy Distance** [[Paper]](https://www.mdpi.com/2072-4292/15/11/2928）
+
 ### 2024
 - `OSSOD` [JAG] **Semi-supervised object detection with uncurated unlabeled data for remote sensing images** [[Paper]](https://www.sciencedirect.com/science/article/pii/S1569843224001687)  [[Code]](https://github.com/Lans1ng/OSSOD)
 
