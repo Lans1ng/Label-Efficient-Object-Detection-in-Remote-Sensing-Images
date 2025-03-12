@@ -138,6 +138,8 @@ https://ieeexplore.ieee.org/abstract/document/10282953)
 
 - `---` [IGARSS] **How to Efficiently Adapt Foundation Models to Remote Sensing for Object Detection?** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10642561)
 
+- `---` [TGRS] **Balancing Attention to Base and Novel Categories for Few-Shot Object Detection in Remote Sensing Imagery** [[Paper]](https://ieeexplore.ieee.org/document/10781448) [[Code]](https://ieeexplore.ieee.org/document/10781448)
+
 ### 2025
 - `EC-FSOD` [IEEE Access] **Few-Shot Object Detection in Remote Sensing: Mitigating Label Inconsistencies and Navigating Category Variations** [[Paper]](https://ieeexplore.ieee.org/document/10835074) [[Code]](https://github.com/stcnjtech/EC-FSOD)
   
