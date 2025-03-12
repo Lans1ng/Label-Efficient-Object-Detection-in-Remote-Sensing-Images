@@ -47,7 +47,9 @@
 ### 2025
 - `S3OD` [ISPRS] **S3OD: Size-unbiased semi-supervised object detection in aerial images** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271625000425)  [[Code]](https://github.com/ZhangRuixiang-WHU/S3OD/tree/master)
   
-- `SRODET` [GRSL] **SRODET: Semi-Supervised Remote Sensing Object Detection with Dynamic Pseudo-Labeling** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10900437) 
+- `SRODET` [GRSL] **SRODET: Semi-Supervised Remote Sensing Object Detection with Dynamic Pseudo-Labeling** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10900437)
+
+- `MCL` [AAAI] **Multi-clue Consistency Learning to Bridge Gaps Between General and Oriented Object in Semi-supervised Detection** [[Paper]](https://arxiv.org/abs/2407.05909)  [[Code]](https://github.com/facias914/sood-mcl)
 
 
 
