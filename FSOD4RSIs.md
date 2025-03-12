@@ -157,3 +157,5 @@ https://ieeexplore.ieee.org/abstract/document/10282953)
 
 - `SFIDM` [Remote Sensing] **SFIDM: Few-Shot Object Detection in Remote Sensing Images with Spatial-Frequency Interaction and Distribution Matching** [[Paper]](https://www.mdpi.com/2072-4292/17/6/972)
 
+- `FFARPNet` [ICASSP] **Few-Shot Object Detection in Satellite Imagery with Feature Fusion Pyramid and Adaptive Region Proposal Networks** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10890247)
+
