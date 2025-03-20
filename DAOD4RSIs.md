@@ -31,6 +31,9 @@
 - `---` [Geo-spatial Information Science] **Multi-level domain perturbation for source-free object detection in remote sensing images** [[Paper]](https://www.tandfonline.com/doi/full/10.1080/10095020.2024.2378920)
 - `SFOD-RS` [IGARSS] **CLIP-guided Source-free Object Detection in Aerial Images** [[Paper]](https://arxiv.org/abs/2401.05168) [[Code]](https://github.com/Lans1ng/SFOD-RS)
 
+### 2025
+- `GOOD` [ISPRS] **GOOD: Towards domain generalized oriented object detection** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271625000838?via%3Dihub) [[Code]](https://github.com/BiQiWHU/GOOD)
+
 
 
 
