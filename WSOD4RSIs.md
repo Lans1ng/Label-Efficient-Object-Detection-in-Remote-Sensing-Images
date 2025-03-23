@@ -26,6 +26,7 @@
 - `PointOBB` [CVPR] **PointOBB: Learning Oriented Object Detection via Single Point Supervision** [[Paper]](https://arxiv.org/abs/2311.14757) [[Code]](https://github.com/Luo-Z13/pointobb)
 - `Point2RBox` [CVPR] **Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision** [[Paper]](https://arxiv.org/abs/2311.14758) [[Code]](https://github.com/yuyi1005/point2rbox-mmrotate/tree/dev-1.x/configs/point2rbox)
 - `Point-to-RBox` [BMVC] **Point-to-RBox Network for Oriented Object Detection via Single Point Supervision** [[Paper]](https://papers.bmvc2023.org/0323.pdf)
+- `P2RBox` [ArXiv] **P2RBox: Point Prompt Oriented Object Detection with SAM** [[Paper]](https://arxiv.org/abs/2311.13128)
 - `AE-IS` [TGRS] **Attention Erasing and Instance Sampling for Weakly Supervised Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/10345589) [[Code]](https://github.com/XuanX/AE-IS)
   
 ### 2024
