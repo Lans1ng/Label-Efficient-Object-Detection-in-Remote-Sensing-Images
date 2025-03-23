@@ -96,7 +96,7 @@ https://ieeexplore.ieee.org/abstract/document/10282953)
 ### 2024
 - `ST-FSOD` [TGRS] **Few-shot object detection in remote sensing: Lifting the curse of incompletely annotated novel objects** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10384561) [[Code]](https://github.com/zhu-xlab/ST-FSOD)
 
-- `AMTN` [JAG] **Adaptive meta-knowledge transfer network for few-shot object detection in very high resolution remote sensing images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10384561) [[Code]](https://www.sciencedirect.com/science/article/pii/S1569843224000293)
+- `AMTN` [JAG] **Adaptive meta-knowledge transfer network for few-shot object detection in very high resolution remote sensing images** [[Paper]](https://www.sciencedirect.com/science/article/pii/S1569843224000293)
 
 - `FSOD4RSI` [JSTARS] **FSOD4RSI: Few-Shot Object Detection for Remote Sensing Images via Features Aggregation and Scale Attention** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10423123)
 
