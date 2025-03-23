@@ -17,6 +17,7 @@
 
 ### 2022
 - `RINet` [CVPR] **Weakly supervised rotation-invariant aerial object detection network** [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Weakly_Supervised_Rotation-Invariant_Aerial_Object_Detection_Network_CVPR_2022_paper.html) [[Code]](https://github.com/XiaoxFeng/RINet)
+- `SPG` [TGRS] **Self-Guided Proposal Generation for Weakly Supervised Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/9791412)
 
 ### 2023
 - `H2RBox` [ICLR] **H2RBox: Horizontal Box Annotation is All You Need for Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2210.06742) [[Code]](https://github.com/yangxue0827/h2rbox-mmrotate)
