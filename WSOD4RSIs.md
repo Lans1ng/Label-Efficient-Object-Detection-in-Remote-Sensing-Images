@@ -13,7 +13,7 @@
 ### 2021
 - `---` [ICMEW] **Oriented Object Detection For Remote Sensing Images Based On Weakly Supervised Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9455957?casa_token=x3jK_8szB8sAAAAA:0UV4id4FbO-zSz7X_5Px7CAiZrgHlcdO5gEdspfubB2hZr4CMKWShzdjprnTDEufOL3AhQ3FnZn_)
 
-- `---` [JSTARS] **Point-Based Weakly Supervised Learning for Object Detection in High Spatial Resolution Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/document/9239339)
+- `---` [JSTARS] **Point-Based Weakly Supervised Learning for Object Detection in High Spatial Resolution Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/document/9416748)
 
 ### 2022
 - `RINet` [CVPR] **Weakly supervised rotation-invariant aerial object detection network** [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Weakly_Supervised_Rotation-Invariant_Aerial_Object_Detection_Network_CVPR_2022_paper.html) [[Code]](https://github.com/XiaoxFeng/RINet)
