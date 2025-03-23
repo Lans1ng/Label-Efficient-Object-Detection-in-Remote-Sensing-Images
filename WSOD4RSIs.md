@@ -5,8 +5,15 @@
 ### Survey
 [Remote Sensing] **Weakly Supervised Object Detection for Remote Sensing Images: A Survey** [[Paper]](https://www.mdpi.com/2072-4292/14/21/5362)
 
+### 2020
+- `DCL` [TGRS] **Automatic Weakly Supervised Object Detection From High Spatial Resolution Remote Sensing Images via Dynamic Curriculum Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9094681)
+- `PCIR` [TGRS] **Progressive Contextual Instance Refinement for Weakly Supervised Object Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/document/9078853)
+- `TCANet` [TGRS] **TCANet: Triple Context-Aware Network for Weakly Supervised Object Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/document/9239339)
+
 ### 2021
-- `---` [ICMEW] **Oriented Object Detection For Remote Sensing Images Based On Weakly Supervised Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9455957?casa_token=x3jK_8szB8sAAAAA:0UV4id4FbO-zSz7X_5Px7CAiZrgHlcdO5gEdspfubB2hZr4CMKWShzdjprnTDEufOL3AhQ3FnZn_) 
+- `---` [ICMEW] **Oriented Object Detection For Remote Sensing Images Based On Weakly Supervised Learning** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9455957?casa_token=x3jK_8szB8sAAAAA:0UV4id4FbO-zSz7X_5Px7CAiZrgHlcdO5gEdspfubB2hZr4CMKWShzdjprnTDEufOL3AhQ3FnZn_)
+
+- `---` [JSTARS] **Point-Based Weakly Supervised Learning for Object Detection in High Spatial Resolution Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/document/9239339)
 
 ### 2022
 - `RINet` [CVPR] **Weakly supervised rotation-invariant aerial object detection network** [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Feng_Weakly_Supervised_Rotation-Invariant_Aerial_Object_Detection_Network_CVPR_2022_paper.html) [[Code]](https://github.com/XiaoxFeng/RINet)
