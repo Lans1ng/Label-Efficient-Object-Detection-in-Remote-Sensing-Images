@@ -28,6 +28,7 @@
 - `Point-to-RBox` [BMVC] **Point-to-RBox Network for Oriented Object Detection via Single Point Supervision** [[Paper]](https://papers.bmvc2023.org/0323.pdf)
 - `P2RBox` [ArXiv] **P2RBox: Point Prompt Oriented Object Detection with SAM** [[Paper]](https://arxiv.org/abs/2311.13128)
 - `AE-IS` [TGRS] **Attention Erasing and Instance Sampling for Weakly Supervised Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/10345589) [[Code]](https://github.com/XuanX/AE-IS)
+- `PLUG` [TGRS] **Learning Remote Sensing Object Detection With Single Point Supervision** [[Paper]](https://ieeexplore.ieee.org/document/10363380) [[Code]](https://github.com/heshitian/PLUG)
   
 ### 2024
 - `---` [TGRS] **A Weak Supervision Learning Paradigm for Oriented Ship Detection in SAR Image** [[Paper]](https://ieeexplore.ieee.org/document/10463064)
