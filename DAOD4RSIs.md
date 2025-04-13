@@ -34,6 +34,7 @@
 ### 2025
 - `GOOD` [ISPRS] **GOOD: Towards domain generalized oriented object detection** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0924271625000838?via%3Dihub) [[Code]](https://github.com/BiQiWHU/GOOD)
 
+- `FIE-Net` [TGRS] **FIE-Net: Foreground Instance Enhancement Network for Domain Adaptation Object Detection in Remote Sensing Imagery** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10960542) [[Code]](https://github.com/Lab-PANbin/)
 
 
 
