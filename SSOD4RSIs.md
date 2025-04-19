@@ -53,6 +53,8 @@
 
 - `MCL` [AAAI] **Multi-clue Consistency Learning to Bridge Gaps Between General and Oriented Object in Semi-supervised Detection** [[Paper]](https://arxiv.org/abs/2407.05909)  [[Code]](https://github.com/facias914/sood-mcl)
 
+- `DML` [TGRS] **Minimizing Sample Redundancy for Label-efficient Object Detection in Aerial Images** [[Paper]](https://ieeexplore.ieee.org/document/10969845)  [[Code]](https://github.com/ZhangRuixiang-WHU/ALOD_DML)
+
 
 
 
