@@ -161,3 +161,5 @@ https://ieeexplore.ieee.org/abstract/document/10282953)
 
 - `FFARPNet` [ICASSP] **Few-Shot Object Detection in Satellite Imagery with Feature Fusion Pyramid and Adaptive Region Proposal Networks** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10890247)
 
+- `MemDeT` [TGRS] **Memory-Augmented Detection Transformer for Few-Shot Object Detection in Remote Sensing Imagery** [[Paper]](http://ieeexplore.ieee.org/abstract/document/10971406)
+
