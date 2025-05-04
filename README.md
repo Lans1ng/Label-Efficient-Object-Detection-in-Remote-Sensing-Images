@@ -1,4 +1,5 @@
-# label-efficient-object-detection-in-RSIs
+# Label-Efficient-Object-Detection-in-Remote-Sensing-Images
+
 
 A curated list of awesome label-efficient (semi-supervised/ weakly-supervised/ few-shot/ domain adaptive) object detection resources in remote sensing images.
 
