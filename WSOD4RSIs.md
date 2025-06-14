@@ -43,6 +43,7 @@
 
 ### 2025
 - `PointSAM` [TGRS] **PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/document/10839471) [[Code]](https://github.com/Lans1ng/PointSAM)
-- `PointOBB-v3` [ArXiv] **PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2501.13898) [[Code]](https://github.com/ZpyWHU/PointOBB-v3)
+- `PointOBB-v3` [ICLR] **PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2501.13898) [[Code]](https://github.com/ZpyWHU/PointOBB-v3)
 - `Point2RBox-v2` [CVPR] **Point2RBox-v2: Rethinking Point-supervised Oriented Object Detection with Spatial Layout Among Instances** [[Paper]](https://arxiv.org/abs/2502.04268) [[Code]](https://github.com/VisionXLab/point2rbox-v2)
 - `Wholly-WOOD` [TPAMI] **Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2502.09471) [[Code]](https://github.com/VisionXLab/whollywood)
+- `SSP` [ArXiv] **Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2506.10601) [[Code]](https://github.com/antxinyuan/ssp)
