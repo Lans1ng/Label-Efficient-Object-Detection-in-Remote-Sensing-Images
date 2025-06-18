@@ -55,7 +55,9 @@
 
 - `DML` [TGRS] **Minimizing Sample Redundancy for Label-efficient Object Detection in Aerial Images** [[Paper]](https://ieeexplore.ieee.org/document/10969845)  [[Code]](https://github.com/ZhangRuixiang-WHU/ALOD_DML)
   
-- `TST` [TGRS] **Temporal-Feedback Self-Training for Semi-Supervised Object Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10976546) 
+- `TST` [TGRS] **Temporal-Feedback Self-Training for Semi-Supervised Object Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10976546)
+  
+- `Adjacent Teacher` [TGRS] **Adjacent Teacher: Semi-Supervised Oriented Object Detection Leveraging Adjacent Spatial Consistency Prior in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11036102)
 
 
 
