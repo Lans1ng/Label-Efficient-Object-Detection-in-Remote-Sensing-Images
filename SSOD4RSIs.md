@@ -57,7 +57,7 @@
   
 - `TST` [TGRS] **Temporal-Feedback Self-Training for Semi-Supervised Object Detection in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10976546)
   
-- `Adjacent Teacher` [TGRS] **Adjacent Teacher: Semi-Supervised Oriented Object Detection Leveraging Adjacent Spatial Consistency Prior in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11036102)
+- `Adjacent Teacher` [TGRS] **Adjacent Teacher: Semi-Supervised Oriented Object Detection Leveraging Adjacent Spatial Consistency Prior in Remote Sensing Images** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11036102) [[Code]](https://github.com/Xia-tao/Adjacent-Teacher)
 
 
 
