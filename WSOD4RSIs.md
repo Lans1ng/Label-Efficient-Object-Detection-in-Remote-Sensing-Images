@@ -48,3 +48,4 @@
 - `Wholly-WOOD` [TPAMI] **Wholly-WOOD: Wholly Leveraging Diversified-quality Labels for Weakly-supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2502.09471) [[Code]](https://github.com/VisionXLab/whollywood)
 - `SSP` [ArXiv] **Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2506.10601) [[Code]](https://github.com/antxinyuan/ssp)
 - `ABBSPO` [CVPR] **ABBSPO: Adaptive Bounding Box Scaling and Symmetric Prior-based Orientation Prediction for Weakly Supervised Oriented Object Detection** [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_ABBSPO_Adaptive_Bounding_Box_Scaling_and_Symmetric_Prior_based_Orientation_CVPR_2025_paper.html)
+- `KDUNet` [Neural Networks] **A weakly-supervised oriented object detector : Knowledge-based dropblock and unified regression network** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0893608025007105)
