@@ -49,3 +49,4 @@
 - `SSP` [ArXiv] **Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection** [[Paper]](https://arxiv.org/abs/2506.10601) [[Code]](https://github.com/antxinyuan/ssp)
 - `ABBSPO` [CVPR] **ABBSPO: Adaptive Bounding Box Scaling and Symmetric Prior-based Orientation Prediction for Weakly Supervised Oriented Object Detection** [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_ABBSPO_Adaptive_Bounding_Box_Scaling_and_Symmetric_Prior_based_Orientation_CVPR_2025_paper.html)
 - `KDUNet` [Neural Networks] **A weakly-supervised oriented object detector : Knowledge-based dropblock and unified regression network** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0893608025007105)
+- `Point Teacher` [ISPRS] **Tiny object detection with single point supervision** [[Paper]]([https://www.sciencedirect.com/science/article/abs/pii/S0893608025007105](https://www.sciencedirect.com/science/article/abs/pii/S092427162500187X))
